@@ -8,7 +8,7 @@
 - ReadME.md: You're actually reading it!
 
 ## Outline of Notebook
-Please check out DFO_CodeSample_Imputation!
+Please check out my Jupyter Notebook [linked here](https://github.com/torkjot/Imputation-Code-Sample/blob/main/CodeSample_Imputation.ipynb)!
 
 
 This notebook outlines the method used to impute missing river temperatures based on air temperatures. This is part of a larger analysis for age-at-maturity modelling in juvenile parr. This imputation work was done to prevent the exlcusion of data due to holes in the environmental meta data. In order to calculate estimated river temperatures, I find the relationship between air and river temperatures using a general linear regression. 
